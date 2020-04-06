@@ -2,8 +2,8 @@
   "name": "SomeProject",
   "displayName": "SomeProject",
   "expo": {
-    "name": "SomeProject",
-    "slug": "SomeProject",
+    "name": "Calculator App",
+    "slug": "calculator-app",
     "privacy": "unlisted",
     "sdkVersion": "36.0.0",
     "version": "1.0.0",
@@ -12,6 +12,8 @@
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "description": "Simple Calculator App in react-native inspired by the android calculator",
+    "githubUrl": "https://github.com/irynahotsiy/Calculator-App"
   }
 }
