@@ -5,8 +5,8 @@ _Simple Calculator App in react-native inspired by the android calculator_
 ## Screenshots
 
 The view on **Android**
-![Android View](/images/operations.png =30x20)
-![Android View](/images/equal.png =30x20)
+![Android View](/images/operations.png)
+![Android View](/images/equal.png)
 
 ## Demo
 
